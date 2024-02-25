@@ -1,8 +1,48 @@
 {
     "courses": [
         {
-            "course_id": "25614",
-            "name": "Assaf"
+            "course_id": "15708",
+            "name": "LoadRunner Professional Essentials OnDemand (2023)"
+        },
+        {
+            "course_id": "15713",
+            "name": "Load Runner Professional (LRP) Advanced (V)ILT"
+        },
+        {
+            "course_id": "15721",
+            "name": "LoadRunner Enterprise Essentials OnDemand (2023)"
+        },
+        {
+            "course_id": "15799",
+            "name": "Virtual User Generator (VuGen) Essentials OnDemand (2023)"
+        },
+        {
+            "course_id": "15625",
+            "name": "ALM Octane for Agile Teams Self-paced  (24.x)"
+        },
+        {
+            "course_id": "55630",
+            "name": "ALM Octane Business User Certification Exam (24.x)"
+        },
+        {
+            "course_id": "15924",
+            "name": "ValueEdge Functional Test Fundamentals (VEFT) Self-paced  (24.x)"
+        },
+        {
+            "course_id": "15958",
+            "name": "ValueEdge for Agile Teams Self-paced  (24.x)"
+        },
+        {
+            "course_id": "15801",
+            "name": "UFTOne Advanced (V)ILT (2023)"
+        },
+        {
+            "course_id": "55813",
+            "name": "UFTOne Certification Exam (2023)"
+        },
+        {
+            "course_id": "15807",
+            "name": "UFTOne Essentials OnDemand (2023)"
         }
     ]
 }
