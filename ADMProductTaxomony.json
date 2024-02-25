@@ -1,0 +1,29 @@
+{
+    "ALM": {
+        "code":56,
+        "ALM": 0,
+        "Octane":2
+    },
+    "LR": {
+        "code":57,
+        "LRP":0,
+        "LRE":2,
+        "LRC":4,
+        "LRD":6,
+        "VuGen":8
+    },
+    "UFT": {
+        "code":58,
+        "UFTOne": 0,
+        "UFTDigitalLab":2,
+        "UFTDeveloper":4
+    },
+    "ValueEdge": {
+        "code":59,
+        "ValueEdgeProtfolio":0,
+        "VEFT":2,
+        "ValueEdgeAgile":4,
+        "ValueEdgeQuality":6,
+        "ValueEdgeRelease":8
+    }
+}
