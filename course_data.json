@@ -43,6 +43,10 @@
         {
             "course_id": "15807",
             "name": "UFTOne Essentials OnDemand (2023)"
+        },
+        {
+            "course_id": "15935",
+            "name": "ValueEdge Functional Test Digital Lab Essentials"
         }
     ]
 }
