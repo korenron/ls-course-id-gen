@@ -47,6 +47,10 @@
         {
             "course_id": "15935",
             "name": "ValueEdge Functional Test Digital Lab Essentials"
+        },
+        {
+            "course_id": "15738",
+            "name": "Load Runner Enterprise (LRE) Advanced (V)ILT"
         }
     ]
 }
