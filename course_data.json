@@ -51,6 +51,10 @@
         {
             "course_id": "15738",
             "name": "Load Runner Enterprise (LRE) Advanced (V)ILT"
+        },
+        {
+            "course_id": "15752",
+            "name": "LoadRunner Cloud (LRC) Essentials"
         }
     ]
 }
