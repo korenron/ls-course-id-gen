@@ -55,6 +55,22 @@
         {
             "course_id": "15752",
             "name": "LoadRunner Cloud (LRC) Essentials"
+        },
+        {
+            "course_id": "15627",
+            "name": "ALM Octane Essentials"
+        },
+        {
+            "course_id": "55984",
+            "name": "ValueEdge for Developers"
+        },
+        {
+            "course_id": "45997",
+            "name": "ValueEdge integrations for DevOps"
+        },
+        {
+            "course_id": "5916",
+            "name": "ValueEdge for Business Administrator"
         }
     ]
 }
